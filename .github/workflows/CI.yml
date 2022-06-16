@@ -11,7 +11,7 @@ env:
 
 jobs:
 
-  build_openwrt:
+  build:
 
     name: Build OpenWrt
 
