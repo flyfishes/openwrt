@@ -3,8 +3,7 @@ name: OpenWrt-CI
 on:
   [repository_dispatch,workflow_dispatch]
   
-  watch:
-    types: started
+  
     
 env:
   TZ: Asia/Shanghai
