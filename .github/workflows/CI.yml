@@ -13,6 +13,7 @@ jobs:
   build_openwrt:
 
     name: Build OpenWrt
+    timeout-minutes: 1024
 
     runs-on: ubuntu-latest
 
